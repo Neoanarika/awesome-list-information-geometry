@@ -22,7 +22,7 @@ The core idea of information geometry is to study the parameter space of statist
 
 <!-- TOC -->
 
-## Contents
+## Blogs
 
 - [Featured (new releases)](#featured-new-releases)
 - [Section 1](#section-1)
@@ -30,17 +30,17 @@ The core idea of information geometry is to study the parameter space of statist
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Short articles (<15 pages)
 
 - [Apple](https://apple.com) - Apple as a placeholder.
 
-## Section 1
+## Textbooks
 
 - [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
 <!-- END CONTENT -->
 
-## Follow
+## Papers
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
