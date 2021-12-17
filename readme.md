@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-This is a list of information geometry. 
+This is a list of surveys and textbooks on information geometry to help someone get started in the field. 
    
 <!-- image -->
 
@@ -17,8 +17,7 @@ This is a list of information geometry.
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
-
+The core idea of information geometry is to study the parameter space of statistical models as Riemannian manifold where the metric is determine by the Fisher Information matrix
 </div>
 
 <!-- TOC -->
