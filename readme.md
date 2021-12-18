@@ -22,34 +22,18 @@ The core idea of information geometry is to study the parameter space of statist
 
 <!-- TOC -->
 
-## Blogs
+## Blogs and Short articles (<15 pages)
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+1. Chapter 3 on information projections: https://www.stat.berkeley.edu/~binyu/212A/papers/cs.pdf
+2. AMS article on information projections: https://www.ams.org/journals/notices/201803/rnoti-p321.pdf
+3. Information Geometry by Amari: https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12464
+4. The Many Faces of Information Geometry: https://www.ams.org/journals/notices/202201/rnoti-p36.pdf
 
-<!-- CONTENT -->
-
-## Short articles (<15 pages)
-
-- [Apple](https://apple.com) - Apple as a placeholder.
 
 ## Textbooks
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
-
-<!-- END CONTENT -->
+1. 
 
 ## Papers
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
-
-## Contributing
-
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
-
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+1. 
