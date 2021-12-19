@@ -25,16 +25,16 @@ The core idea of information geometry is to study the parameter space of statist
 ## Blogs and short articles (<30 pages)
 
 1. **Chapter 3 on information projections (2004)**, Imre Csiszar, Paul C. Shields [[pdf]](https://www.stat.berkeley.edu/~binyu/212A/papers/cs.pdf)
-2. Information Geometry by Amari: https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12464
-3. The Many Faces of Information Geometry: https://www.ams.org/journals/notices/202201/rnoti-p36.pdf
-4. What is information projection https://www.ams.org/journals/notices/201803/rnoti-p321.pdf
+2. **What is information projection (2018)**, Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/201803/rnoti-p321.pdf)
+3. **Information Geometry by Amari (2021)**, Shun-ichi Amari [[pdf]](https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12464)
+4. **The Many Faces of Information Geometry (2021)**,  Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
 
 
 ## Textbooks
 
-1. Information Geometry and Its Applications by Amari https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779
+1. **Information Geometry and Its Applications (2016)**, Shun-ichi Amari https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779
 
 ## Recent papers that use information geometery in machine learning
 
-1. A Distributional Approach to Controlled Text Generation https://arxiv.org/abs/2012.11635
-2. The Information Geometry of Unsupervised Reinforcement Learning https://arxiv.org/abs/2110.02719
+1. **A Distributional Approach to Controlled Text Generation (2020)**, Muhammad Khalifa, Hady Elsahar, Marc Dymetman [[pdf]](https://arxiv.org/abs/2012.11635)
+2. **The Information Geometry of Unsupervised Reinforcement Learning (2021)** [[pdf]] Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine [[pdf]](https://arxiv.org/abs/2110.02719)
