@@ -33,8 +33,9 @@ The core idea of information geometry is to study the parameter space of statist
 
 ## Textbooks
 
-1. 
+1. Information Geometry and Its Applications by Amari https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779
 
 ## Papers
 
-1. 
+1. A Distributional Approach to Controlled Text Generation https://arxiv.org/abs/2012.11635
+2. The Information Geometry of Unsupervised Reinforcement Learning https://arxiv.org/abs/2110.02719
