@@ -32,7 +32,7 @@ The core idea of information geometry is to study the parameter space of statist
 
 ## Textbooks
 
-1. **Information Geometry and Its Applications (2016)**, Shun-ichi Amari https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779
+1. **Information Geometry and Its Applications (2016)**, Shun-ichi Amari [[Amazon Link]](https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)
 
 ## Recent papers that use information geometery in machine learning
 
