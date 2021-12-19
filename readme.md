@@ -28,6 +28,7 @@ The core idea of information geometry is to study the parameter space of statist
 2. AMS article on information projections: https://www.ams.org/journals/notices/201803/rnoti-p321.pdf
 3. Information Geometry by Amari: https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12464
 4. The Many Faces of Information Geometry: https://www.ams.org/journals/notices/202201/rnoti-p36.pdf
+5. What is information projection https://www.ams.org/journals/notices/201803/rnoti-p321.pdf
 
 
 ## Textbooks
