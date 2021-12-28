@@ -22,7 +22,7 @@ The core idea of information geometry is to study the parameter space of statist
 
 <!-- TOC -->
 
-## Blogs and short articles (<30 pages)
+## Blogs and Tutorials
 
 1. **Chapter 3 on information projections (2004)**, Imre Csiszar, Paul C. Shields [[pdf]](https://www.stat.berkeley.edu/~binyu/212A/papers/cs.pdf)
 2. **What is information projection (2018)**, Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/201803/rnoti-p321.pdf)
