@@ -38,3 +38,4 @@ The core idea of information geometry is to study the parameter space of statist
 
 1. **A Distributional Approach to Controlled Text Generation (2020)**, Muhammad Khalifa, Hady Elsahar, Marc Dymetman [[pdf]](https://arxiv.org/abs/2012.11635)
 2. **The Information Geometry of Unsupervised Reinforcement Learning (2021)** Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine [[pdf]](https://arxiv.org/abs/2110.02719)
+3. **An Information-Geometric Distance on the Space of Tasks (2021)** Yansong Gao 1 Pratik Chaudhari [[pdf]](http://proceedings.mlr.press/v139/gao21a/gao21a.pdf)
