@@ -47,5 +47,12 @@ The core idea of information geometry is to study the parameter space of statist
 6. **The Geometric Occam's Razor Implicit in Deep Learning (2021)**, Benoit Dherin, Michael Munn, David G.T. Barrett [[pdf]](https://arxiv.org/abs/2111.15090)
 7. **Towards Modeling and Resolving Singular Parameter Spaces using Stratifolds (2021)**, Pascal Mattia Esser, Frank Nielsen [[pdf]](https://arxiv.org/abs/2112.03734)
 
+8. **Fisher-Rao Metric, Geometry, and Complexity of Neural Networks (2019)**, Tengyuan Liang, Tomaso Poggio, Alexander Rakhlin, James Stokes [[pdf]](https://proceedings.mlr.press/v89/liang19a.html)
+
+## YouTube
+
+1. **Computational Information Geometry (2015)**, Frank Nielsen (MLSS Sydney) [[video]](https://www.youtube.com/watch?v=X3cBhBA1nNw)
+2. **Introduction to Information Geometry**, Frank Nielsen [[video]](https://www.youtube.com/watch?v=w6r_jsEBlgU)
+
 ## Other awesome list on information geometry
 1. https://github.com/nocotan/awesome-information-geometry?tab=readme-ov-file#survey
