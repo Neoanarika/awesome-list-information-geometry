@@ -33,7 +33,8 @@ The core idea of information geometry is to study the parameter space of statist
 
 ## Textbooks
 
-1. **Information Geometry and Its Applications (2016)**, Shun-ichi Amari [[Amazon Link]](https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)
+1. **Matrix Information Geometry (2013)**, Frank Nielsen, Rajendra Bhatia [[Amazon Link]](https://www.amazon.com/Matrix-Information-Geometry-Frank-Nielsen/dp/3642302319#:~:text=About%20the%20Author,%22Positive%20Definite%20Matrices%22..)
+2. **Information Geometry and Its Applications (2016)**, Shun-ichi Amari [[Amazon Link]](https://www.amazon.com/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)
 
 ## Recent papers that use information geometery in machine learning
 
@@ -42,4 +43,3 @@ The core idea of information geometry is to study the parameter space of statist
 3. **An Information-Geometric Distance on the Space of Tasks (2021)** Yansong Gao 1 Pratik Chaudhari [[pdf]](http://proceedings.mlr.press/v139/gao21a/gao21a.pdf)
 4. **Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning (2024)**, Yucheng Yang, Tianyi Zhou, He Qiang, Lei Han, Mykola Pechenizkiy, Meng Fang [[pdf]](https://arxiv.org/pdf/2506.10629)
 5. **Information Geometry of Variational Bayes (2025)**, Mohammad Emtiyaz Khan [[pdf]](https://arxiv.org/abs/2509.15641)
-6. 
