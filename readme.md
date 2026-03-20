@@ -49,6 +49,7 @@ The core idea of information geometry is to study the parameter space of statist
 8. **A Rate-Distortion View of Uncertainty Quantification (2024)**, Ifigeneia Apostolopoulou, Benjamin Eysenbach, Frank Nielsen, Artur Dubrawski [[pdf]](https://arxiv.org/abs/2406.10775v2)
 9. **The Geometry of Neural Nets' Parameter Spaces Under Reparametrization (2023)**, Agustinus Kristiadi, Felix Dangel, Philipp Hennig [[pdf]](https://arxiv.org/abs/2302.07384)
 10. **Riemannian SAM: Sharpness-Aware Minimization on Riemannian Manifolds (2023)**, Jihun Yun, Eunho Yang [[pdf]](https://openreview.net/forum?id=vtLNwa6uX0)
+11. **On Information Geometry and Iterative Optimization in Model Compression: Operator Factorization (2025)**, Zakhar Shumaylov, Vasileios Tsiaras, Yannis Stylianou [[pdf]](https://arxiv.org/abs/2507.09428)
 
 ## Singular Learning Theory
 
