@@ -29,6 +29,7 @@ The core idea of information geometry is to study the parameter space of statist
 3. **An elementary introduction to information geometry (2019)**,  Frank Nielsen [[pdf]](https://arxiv.org/pdf/1808.08271.pdf)
 4. **Information Geometry by Amari (2021)**, Shun-ichi Amari [[pdf]](https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12464)
 5. **The Many Faces of Information Geometry (2021)**,  Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
+6. **Information Geometry for the Working Information Theorist (2023)**, Kumar Vijay Mishra, M. Ashok Kumar, Ting-Kam Leonard Wong [[pdf]](https://arxiv.org/pdf/2310.03884)
 
 ## Textbooks
 
@@ -39,3 +40,6 @@ The core idea of information geometry is to study the parameter space of statist
 1. **A Distributional Approach to Controlled Text Generation (2020)**, Muhammad Khalifa, Hady Elsahar, Marc Dymetman [[pdf]](https://arxiv.org/abs/2012.11635)
 2. **The Information Geometry of Unsupervised Reinforcement Learning (2021)** Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine [[pdf]](https://arxiv.org/abs/2110.02719)
 3. **An Information-Geometric Distance on the Space of Tasks (2021)** Yansong Gao 1 Pratik Chaudhari [[pdf]](http://proceedings.mlr.press/v139/gao21a/gao21a.pdf)
+4. **Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning (2024)**, Yucheng Yang, Tianyi Zhou, He Qiang, Lei Han, Mykola Pechenizkiy, Meng Fang [[pdf]](https://arxiv.org/pdf/2506.10629)
+5. **Information Geometry of Variational Bayes (2025)**, Mohammad Emtiyaz Khan [[pdf]](https://arxiv.org/abs/2509.15641)
+6. 
