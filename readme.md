@@ -46,3 +46,6 @@ The core idea of information geometry is to study the parameter space of statist
 5. **Information Geometry of Variational Bayes (2025)**, Mohammad Emtiyaz Khan [[pdf]](https://arxiv.org/abs/2509.15641)
 6. **The Geometric Occam's Razor Implicit in Deep Learning (2021)**, Benoit Dherin, Michael Munn, David G.T. Barrett [[pdf]](https://arxiv.org/abs/2111.15090)
 7. **Towards Modeling and Resolving Singular Parameter Spaces using Stratifolds (2021)**, Pascal Mattia Esser, Frank Nielsen [[pdf]](https://arxiv.org/abs/2112.03734)
+
+## Other awesome list on information geometry
+1. https://github.com/nocotan/awesome-information-geometry?tab=readme-ov-file#survey
