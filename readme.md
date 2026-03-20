@@ -45,9 +45,11 @@ The core idea of information geometry is to study the parameter space of statist
 4. **Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning (2024)**, Yucheng Yang, Tianyi Zhou, He Qiang, Lei Han, Mykola Pechenizkiy, Meng Fang [[pdf]](https://arxiv.org/pdf/2506.10629)
 5. **Information Geometry of Variational Bayes (2025)**, Mohammad Emtiyaz Khan [[pdf]](https://arxiv.org/abs/2509.15641)
 6. **The Geometric Occam's Razor Implicit in Deep Learning (2021)**, Benoit Dherin, Michael Munn, David G.T. Barrett [[pdf]](https://arxiv.org/abs/2111.15090)
-7. **Towards Modeling and Resolving Singular Parameter Spaces using Stratifolds (2021)**, Pascal Mattia Esser, Frank Nielsen [[pdf]](https://arxiv.org/abs/2112.03734)
+7. **Fisher-Rao Metric, Geometry, and Complexity of Neural Networks (2019)**, Tengyuan Liang, Tomaso Poggio, Alexander Rakhlin, James Stokes [[pdf]](https://proceedings.mlr.press/v89/liang19a.html)
 
-8. **Fisher-Rao Metric, Geometry, and Complexity of Neural Networks (2019)**, Tengyuan Liang, Tomaso Poggio, Alexander Rakhlin, James Stokes [[pdf]](https://proceedings.mlr.press/v89/liang19a.html)
+## Singular Learning Theory
+
+1. **Towards Modeling and Resolving Singular Parameter Spaces using Stratifolds (2021)**, Pascal Mattia Esser, Frank Nielsen [[pdf]](https://arxiv.org/abs/2112.03734)
 
 ## YouTube
 
