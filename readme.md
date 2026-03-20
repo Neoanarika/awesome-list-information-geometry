@@ -46,6 +46,9 @@ The core idea of information geometry is to study the parameter space of statist
 5. **Information Geometry of Variational Bayes (2025)**, Mohammad Emtiyaz Khan [[pdf]](https://arxiv.org/abs/2509.15641)
 6. **The Geometric Occam's Razor Implicit in Deep Learning (2021)**, Benoit Dherin, Michael Munn, David G.T. Barrett [[pdf]](https://arxiv.org/abs/2111.15090)
 7. **Fisher-Rao Metric, Geometry, and Complexity of Neural Networks (2019)**, Tengyuan Liang, Tomaso Poggio, Alexander Rakhlin, James Stokes [[pdf]](https://proceedings.mlr.press/v89/liang19a.html)
+8. **A Rate-Distortion View of Uncertainty Quantification (2024)**, Ifigeneia Apostolopoulou, Benjamin Eysenbach, Frank Nielsen, Artur Dubrawski [[pdf]](https://arxiv.org/abs/2406.10775v2)
+9. **The Geometry of Neural Nets' Parameter Spaces Under Reparametrization (2023)**, Agustinus Kristiadi, Felix Dangel, Philipp Hennig [[pdf]](https://arxiv.org/abs/2302.07384)
+10. **Riemannian SAM: Sharpness-Aware Minimization on Riemannian Manifolds (2023)**, Jihun Yun, Eunho Yang [[pdf]](https://openreview.net/forum?id=vtLNwa6uX0)
 
 ## Singular Learning Theory
 
