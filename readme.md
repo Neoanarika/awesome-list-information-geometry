@@ -26,10 +26,11 @@ The core idea of information geometry is to study the parameter space of statist
 
 1. **Chapter 3 on information projections (2004)**, Imre Csiszar, Paul C. Shields [[pdf]](https://www.stat.berkeley.edu/~binyu/212A/papers/cs.pdf)
 2. **What is information projection (2018)**, Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/201803/rnoti-p321.pdf)
-3. **An elementary introduction to information geometry (2019)**,  Frank Nielsen [[pdf]](https://arxiv.org/pdf/1808.08271.pdf)
+3. **An elementary introduction to information geometry (2019)**, Frank Nielsen [[pdf]](https://arxiv.org/pdf/1808.08271.pdf)
 4. **Information Geometry by Amari (2021)**, Shun-ichi Amari [[pdf]](https://onlinelibrary.wiley.com/doi/abs/10.1111/insr.12464)
-5. **The Many Faces of Information Geometry (2021)**,  Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
-6. **Information Geometry for the Working Information Theorist (2023)**, Kumar Vijay Mishra, M. Ashok Kumar, Ting-Kam Leonard Wong [[pdf]](https://arxiv.org/pdf/2310.03884)
+5. **The Many Faces of Information Geometry (2021)**, Frank Nielsen [[pdf]](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
+6. **New Insights and Perspectives on the Natural Gradient Method (2020)**, James Martens [[pdf]](https://arxiv.org/abs/1412.1193)
+7. **Information Geometry for the Working Information Theorist (2023)**, Kumar Vijay Mishra, M. Ashok Kumar, Ting-Kam Leonard Wong [[pdf]](https://arxiv.org/pdf/2310.03884)
 
 ## Textbooks
 
@@ -43,3 +44,5 @@ The core idea of information geometry is to study the parameter space of statist
 3. **An Information-Geometric Distance on the Space of Tasks (2021)** Yansong Gao 1 Pratik Chaudhari [[pdf]](http://proceedings.mlr.press/v139/gao21a/gao21a.pdf)
 4. **Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning (2024)**, Yucheng Yang, Tianyi Zhou, He Qiang, Lei Han, Mykola Pechenizkiy, Meng Fang [[pdf]](https://arxiv.org/pdf/2506.10629)
 5. **Information Geometry of Variational Bayes (2025)**, Mohammad Emtiyaz Khan [[pdf]](https://arxiv.org/abs/2509.15641)
+6. **The Geometric Occam's Razor Implicit in Deep Learning (2021)**, Benoit Dherin, Michael Munn, David G.T. Barrett [[pdf]](https://arxiv.org/abs/2111.15090)
+7. **Towards Modeling and Resolving Singular Parameter Spaces using Stratifolds (2021)**, Pascal Mattia Esser, Frank Nielsen [[pdf]](https://arxiv.org/abs/2112.03734)
