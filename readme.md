@@ -50,6 +50,7 @@ The core idea of information geometry is to study the parameter space of statist
 ## Singular Learning Theory
 
 1. **Towards Modeling and Resolving Singular Parameter Spaces using Stratifolds (2021)**, Pascal Mattia Esser, Frank Nielsen [[pdf]](https://arxiv.org/abs/2112.03734)
+2. **Algebraic Information Geometry for Learning Machines with Singularities (2000)**, Sumio Watanabe [[pdf]](https://papers.nips.cc/paper/2000/hash/f442d33fa06832082290ad8544a8da27-Abstract.html)
 
 ## YouTube
 
